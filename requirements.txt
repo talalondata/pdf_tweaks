@@ -1,0 +1,5 @@
+# Versions used for the local PDF/image tests; Python 3.11 or later.
+pypdf==6.21.4
+Pillow==13.0.0
+reportlab==4.4.9
+pywin32>=306; sys_platform == "win32"
